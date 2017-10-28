@@ -1,10 +1,19 @@
 ## Website Performance Optimization portfolio project
 
-Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
+This goal of this project is to optimize and enhance the performance of website.
 
-To get started, check out the repository and inspect the code.
 
 ### Getting started
+check out the repository and download the code. To run it:
+1- Download and install npm from https://www.npmjs.com/
+2- Open cmd and run this command: npm install http-server -g
+3- Run your website on http-server with this command: http-server [PATH] Path to your project location. 
+4- Open a browser and open your website through: localhost:8080
+5- To check your local host website speed score by Google PageSpeed, run remote server with the follwoing steps: 
+	5.1: Download and install ngrok from: https://ngrok.com, unzip it and run it.
+	5.2: To create remote server URL; type this command: ngrok.exe http 8080
+	5.3: Copy the created link and paste it in PageSpeed Insight.
+
 
 #### Part 1: Optimize PageSpeed Insights score for index.html
 
