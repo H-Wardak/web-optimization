@@ -4,8 +4,8 @@ This goal of this project is to optimize and enhance the performance of website.
 
 
 ### Getting started
-Check out the repository https://github.com/udacity/frontend-nanodegree-mobile-portfolio and download the code. To run it:
-1. Download and install npm from https://www.npmjs.com/
+Check out the [repository][1] and download the code. To run it:
+1. Download and install npm from [here][2]
 2. Open cmd and run this command: `npm install http-server -g`
 3. Run your website on http-server with this command: `http-server [PATH]` Path to your project location. 
 4. Open a browser and open your website through: `localhost:8080`
@@ -62,3 +62,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+[1]: https://github.com/udacity/frontend-nanodegree-mobile-portfolio "Udacity web performance"
+[2]: https://www.npmjs.com/ "npm"
