@@ -16,6 +16,12 @@ Check out [Udacity Repository](https://github.com/udacity/frontend-nanodegree-mo
 
 
 ### Part 1: Optimize PageSpeed Insights score for index.html
-
+* Optimize images provided by Google's PageSpeed Insight
+* Elemenate redner-blocking JS and CSS:
+	* Google analytics JS using `async`
+	* Add media query `print` for print.css
+	* Using Web Font Loader to render Google Fonts api
+* Minify and compressed Index.html, style.css
 
 ### Part 2: Optimize Frames per Second in pizza.html
+The main optimization in main.js are getting variables creation and calcultioins out of the loop, dynamically getting the backgournd pizzas number based on screen height and replacing `.querySelector()` by `.getElementByClassName()`.
