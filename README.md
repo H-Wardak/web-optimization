@@ -4,7 +4,7 @@ This goal of this project is to optimize and enhance the performance of website.
 
 
 ### Getting started
-check out the repository and download the code. To run it:
+Check out the repository https://github.com/udacity/frontend-nanodegree-mobile-portfolio and download the code. To run it:
 1. Download and install npm from https://www.npmjs.com/
 2. Open cmd and run this command: npm install http-server -g
 3. Run your website on http-server with this command: http-server [PATH] Path to your project location. 
